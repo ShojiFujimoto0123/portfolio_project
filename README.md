@@ -1,4 +1,7 @@
-# portfolio_project
-portfolio
 # README
+ポートフォリオ用プロジェクト
 
+# プロジェクト内容
+UnityでHTTP通信の実装を行う
+
+## 環境
